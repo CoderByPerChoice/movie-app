@@ -1,3 +1,9 @@
+# This code comes from an awesome video tutorial from Florin Pop - 
+https://www.youtube.com/watch?v=sZ0bZGfg_m4
+
+![image](https://user-images.githubusercontent.com/20637763/117026975-dab4c600-ad19-11eb-871e-a47d6ad0c148.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
